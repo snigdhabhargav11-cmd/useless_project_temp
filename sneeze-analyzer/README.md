@@ -117,9 +117,66 @@ npm start
 
 # Diagrams
 
-![Workflow](screenshots/architecture.png)
-
-*Workflow showing audio recording, feature extraction, scoring engine, AI commentary generation, and leaderboard integration.*
+┌─────────────────┐
+│     User 🤧     │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Record Sneeze   │
+│ (Microphone)    │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Audio Processing│
+│ & Feature       │
+│ Extraction      │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Sneeze Scoring  │
+│ Engine          │
+│ • Power         │
+│ • Volume        │
+│ • Style         │
+│ • Suspense      │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Animal          │
+│ Classification  │
+│ (Rhino/Lion...) │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Achievement     │
+│ Generator       │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ AI Commentary   │
+│ Generator 🤖    │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Leaderboard &   │
+│ Database        │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Results Dashboard│
+│ 🏆 Score        │
+│ 🦏 Animal       │
+│ 🎖 Achievement  │
+│ 🤖 Commentary   │
+└─────────────────┘
 
 ---
 
