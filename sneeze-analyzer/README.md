@@ -6,31 +6,31 @@
 
 ### Team Name:
 
-**[Your Team Name]**
+**[Code Crafters]**
 
 ### Team Members
 
-* Team Lead: **Snigdha Bhargav** - **[College Name]**
-* Member 2: **[Name]** - **[College Name]**
-* Member 3: **[Name]** - **[College Name]**
+* Team Lead: **Snigdha Bhargav** - Baselios Mathews II COLLEGE OF Engineering,Sasthamcotta
+* Member 1: **Daya Chandran** - Baselios Mathews II college of Engineering ,Sasthamcotta
+* Member 2: **Snigdha Bhargav** - Baselis Mathews II college of Engineering ,Sasthamcotta
 
 ---
 
 ### Project Description
 
-SneezeRank AI is the world's first AI-powered competitive sneezing platform. Users record their sneezes, receive professional-style ratings, unlock achievements, get classified as animals, and compete[...]
+SneezeRank AI is the world's first AI-powered competitive sneezing platform. Users record their sneezes, receive professional-style ratings, unlock achievements, get classified as animals, and compete
 
 ---
 
 ### The Problem (that doesn't exist)
 
-Humanity has spent centuries measuring sports performance, intelligence, and productivity, yet no standardized system exists for evaluating sneeze quality. Millions of powerful sneezes go unnoticed ev[...]
+Humanity has spent centuries measuring sports performance, intelligence, and productivity, yet no standardized system exists for evaluating sneeze quality. Millions of powerful sneezes go unnoticed ev
 
 ---
 
 ### The Solution (that nobody asked for)
 
-We developed an AI-powered sneeze analysis platform that transforms ordinary sneezes into a competitive esport. Using audio analysis, AI commentary, animal classification, achievements, and leaderboar[...]
+We developed an AI-powered sneeze analysis platform that transforms ordinary sneezes into a competitive esport. Using audio analysis, AI commentary, animal classification, achievements, and leaderboar
 
 ---
 
