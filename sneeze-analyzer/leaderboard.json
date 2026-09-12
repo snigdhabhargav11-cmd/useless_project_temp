@@ -1,0 +1,47 @@
+[
+  {
+    "name": "GigaSneezer_99",
+    "score": 98.4,
+    "power": 9.9,
+    "volume": 9.8,
+    "animal": "T-Rex",
+    "achievement": "Earth Shaker",
+    "date": "2026-09-10"
+  },
+  {
+    "name": "Dad_At_Sunday_BBQ",
+    "score": 96.7,
+    "power": 9.7,
+    "volume": 9.9,
+    "animal": "Rhino",
+    "achievement": "Wake The Neighbors",
+    "date": "2026-09-10"
+  },
+  {
+    "name": "SneezingBeauty",
+    "score": 92.1,
+    "power": 8.8,
+    "volume": 8.5,
+    "animal": "Eagle",
+    "achievement": "Sonic Boom",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "AllergyKing",
+    "score": 88.5,
+    "power": 8.2,
+    "volume": 7.9,
+    "animal": "Lion",
+    "achievement": "Scared The Cat",
+    "date": "2026-09-11"
+  },
+  {
+    "name": "MouseWhisperer",
+    "score": 42.0,
+    "power": 3.1,
+    "volume": 2.8,
+    "animal": "Hamster",
+    "achievement": "Muffled Mouse",
+    "date": "2026-09-11"
+  }
+]
