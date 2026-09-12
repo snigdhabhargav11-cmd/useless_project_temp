@@ -1,51 +1,163 @@
-# Sneeze Analyzer
+# SneezeRank AI 🤧🏆
 
-An AI-powered audio analysis platform that captures sneeze recordings, extracts acoustic features, generates performance scores, produces humorous AI commentary, and ranks users.
+## Basic Details
 
-## Prerequisites
+### Team Name:
 
-You will need the following installed on your system to run this project:
-1. **Node.js** (v18+ recommended) - [Download here](https://nodejs.org/)
-2. **Python** (v3.8+ recommended) - [Download here](https://www.python.org/downloads/)
-3. **OpenAI API Key** (Optional for now, mocked in code)
+**[Your Team Name]**
 
-## Setup Instructions
+### Team Members
 
-### 1. Backend Setup
-The backend runs on Express and uses Python to process the audio.
+* Team Lead: **Snigdha Bhargav** - **Basileous Mathews College Of Engineering**
+* Member 2: **Daya Chandran** - **Basileous Mathews College Of Engineering**
 
-Open a terminal and navigate to the backend folder:
+
+---
+
+### Project Description
+
+SneezeRank AI is the world's first AI-powered competitive sneezing platform. Users record their sneezes, receive professional-style ratings, unlock achievements, get classified as animals, and compete on global leaderboards to become the ultimate sneeze champion.
+
+---
+
+### The Problem (that doesn't exist)
+
+Humanity has spent centuries measuring sports performance, intelligence, and productivity, yet no standardized system exists for evaluating sneeze quality. Millions of powerful sneezes go unnoticed every day, leaving people unaware of their true respiratory potential.
+
+---
+
+### The Solution (that nobody asked for)
+
+We developed an AI-powered sneeze analysis platform that transforms ordinary sneezes into a competitive esport. Using audio analysis, AI commentary, animal classification, achievements, and leaderboards, every sneeze receives the recognition it deserves.
+
+---
+
+## Technical Details
+
+### Technologies/Components Used
+
+#### For Software
+
+**Languages Used**
+
+* JavaScript
+* Python
+
+**Frameworks Used**
+
+* React
+* Express.js
+
+**Libraries Used**
+
+* Tailwind CSS
+* Chart.js
+* Framer Motion
+* Librosa
+* NumPy
+* Axios
+
+**Tools Used**
+
+* GitHub
+* MongoDB Atlas
+* Vercel
+* Render
+* VS Code
+
+---
+
+## Implementation
+
+### For Software
+
+# Installation
+
+```bash
+git clone https://github.com/your-username/sneezerank-ai.git
+
+cd sneezerank-ai
+
+npm install
+```
+
+# Run
+
+Frontend:
+
+```bash
+npm run dev
+```
+
+Backend:
+
 ```bash
 cd backend
+
 npm install
+
+npm start
 ```
 
-*(Optional)* Install Python dependencies for real audio analysis (otherwise it uses mock data):
-```bash
-pip install librosa numpy
-```
+---
 
-Start the backend server:
-```bash
-npm run dev
-```
-*The backend will run on http://localhost:5000*
+## Project Documentation
 
-### 2. Frontend Setup
-The frontend runs on Vite + React.
+### For Software
 
-Open a *new* terminal and navigate to the frontend folder:
-```bash
-cd frontend
-npm install
-```
+# Screenshots (Add at least 3)
 
-Start the frontend development server:
-```bash
-npm run dev
-```
-*The frontend will run on http://localhost:5173*
+![Homepage](screenshots/homepage.png)
 
-## Next Steps
-- **Database Integration:** The MVP currently mocks database operations. You can expand `server.js` with `mongoose` to connect to MongoDB Atlas.
-- **AI Commentary:** In `backend/server.js`, uncomment the OpenAI integration and provide your `OPENAI_API_KEY` to dynamically generate hilarious roasts!
+*Landing page where users can start recording their sneezes.*
+
+---
+
+![Analysis Dashboard](screenshots/analysis.png)
+
+*AI-generated sneeze analysis showing power, volume, style, suspense, and achievements.*
+
+---
+
+![Leaderboard](screenshots/leaderboard.png)
+
+*Global rankings of top sneezers competing for respiratory supremacy.*
+
+---
+
+# Diagrams
+
+![Workflow](screenshots/architecture.png)
+
+*Workflow showing audio recording, feature extraction, scoring engine, AI commentary generation, and leaderboard integration.*
+
+---
+
+## Project Demo
+
+### Video
+
+**Demo Video Link:** [Add YouTube/Drive Link Here]
+
+The video demonstrates recording a sneeze, AI analysis, achievement generation, animal classification, and leaderboard updates.
+
+---
+
+### Additional Demos
+
+* GitHub Repository: [Add Repository Link]
+* Live Demo: [Add Deployment Link]
+
+---
+
+## Team Contributions
+
+* **Snigdha Bhargav**: Frontend development, UI/UX design, project architecture, presentation.
+* **Daya Chandran**: Backend APIs, audio processing, database integration.
+
+
+---
+
+## Tagline
+
+> **Turning respiratory events into competitive esports.** 🤧🏆
