@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/08bd5b05-fb61-4141-ac3e-d408eeac67ec" />
+
 # Sneeze Analyzer
 
 An AI-powered audio analysis platform that captures sneeze recordings, extracts acoustic features, generates performance scores, produces humorous AI commentary, and ranks users.
