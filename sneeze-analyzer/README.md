@@ -109,23 +109,8 @@ npm start
 
 # Screenshots (Add at least 3)
 
-![Homepage](screenshots/homepage.png)
+sneeze-analyzer/image/Screenshot 2026-09-12 055140.png
 
-*Landing page where users can start recording their sneezes.*
-
----
-
-![Analysis Dashboard](screenshots/analysis.png)
-
-*AI-generated sneeze analysis showing power, volume, style, suspense, and achievements.*
-
----
-
-![Leaderboard](screenshots/leaderboard.png)
-
-*Global rankings of top sneezers competing for respiratory supremacy.*
-
----
 
 # Diagrams
 
