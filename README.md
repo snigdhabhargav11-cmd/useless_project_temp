@@ -1,103 +1,210 @@
-<img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/08bd5b05-fb61-4141-ac3e-d408eeac67ec" />
 
-
-
-# [Project Name] 🎯
-
+# SneezeRank AI 🤧🏆
 
 ## Basic Details
-### Team Name: [Name]
 
+### Team Name:
+
+**[Code Crafters]**
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
 
-### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+* Team Lead: **Snigdha Bhargav** - Baselios Mathews II COLLEGE OF Engineering,Sasthamcotta
+* Member 1: **Daya Chandran** - Baselios Mathews II college of Engineering ,Sasthamcotta
+* Member 2: **Snigdha Bhargav** - Baselis Mathews II college of Engineering ,Sasthamcotta
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
+### Project Description
 
+SneezeRank AI is the world's first AI-powered competitive sneezing platform. Users record their sneezes, receive professional-style ratings, unlock achievements, get classified as animals, and compete
 
+---
 
+### The Problem (that doesn't exist)
+
+Humanity has spent centuries measuring sports performance, intelligence, and productivity, yet no standardized system exists for evaluating sneeze quality. Millions of powerful sneezes go unnoticed ev
+
+---
+
+### The Solution (that nobody asked for)
+
+We developed an AI-powered sneeze analysis platform that transforms ordinary sneezes into a competitive esport. Using audio analysis, AI commentary, animal classification, achievements, and leaderboar
+
+---
+
+## Technical Details
+
+### Technologies/Components Used
+
+#### For Software
+
+**Languages Used**
+
+* JavaScript
+* Python
+
+**Frameworks Used**
+
+* React
+* Express.js
+
+**Libraries Used**
+
+* Tailwind CSS
+* Chart.js
+* Framer Motion
+* Librosa
+* NumPy
+* Axios
+
+**Tools Used**
+
+* GitHub
+* MongoDB Atlas
+* Vercel
+* Render
+* VS Code
+
+---
+
+## Implementation
+
+### For Software
+
+# Installation
+
+```bash
+git clone https://github.com/your-username/sneezerank-ai.git
+
+cd sneezerank-ai
+
+npm install
+```
+
+# Run
+
+Frontend:
+
+```bash
+npm run dev
+```
+
+Backend:
+
+```bash
+cd backend
+
+npm install
+
+npm start
+```
+
+---
+
+## Project Documentation
+
+### For Software
+
+# Screenshots (Add at least 3)
+
+![Screenshot 1](image/Screenshot%202026-09-12%20055140.png)
+
+![Screenshot 2](image/Screenshot%202026-09-12%20055150.png)
+
+![Screenshot 3](image/Screenshot%202026-09-12%20055154.png)
+
+# Diagrams
+
+┌─────────────────┐
+│     User 🤧     │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Record Sneeze   │
+│ (Microphone)    │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Audio Processing│
+│ & Feature       │
+│ Extraction      │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Sneeze Scoring  │
+│ Engine          │
+│ • Power         │
+│ • Volume        │
+│ • Style         │
+│ • Suspense      │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Animal          │
+│ Classification  │
+│ (Rhino/Lion...) │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Achievement     │
+│ Generator       │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ AI Commentary   │
+│ Generator 🤖    │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Leaderboard &   │
+│ Database        │
+└────────┬────────┘
+         │
+         ▼
+┌─────────────────┐
+│ Results Dashboard│
+│ 🏆 Score        │
+│ 🦏 Animal       │
+│ 🎖 Achievement  │
+│ 🤖 Commentary   │
+└─────────────────┘
+
+---
+
+## Project Demo
+
+### Video
+
+**Demo Video Link:** [Add YouTube/Drive Link Here]
+
+The video demonstrates recording a sneeze, AI analysis, achievement generation, animal classification, and leaderboard updates.
+
+---
+
+### Additional Demos
+
+* GitHub Repository: [Add Repository Link]
+* Live Demo: [Add Deployment Link]
+
+---
+
+## Team Contributions
+
+* **Snigdha Bhargav**: Frontend development, UI/UX design, project architecture, presentation.
+* **Member 2**: Backend APIs, audio processing, database integration.
+* **Member 3**: AI commentary system, leaderboard implementation, testing and deployment.
+
+---
+
+## Tagline
+
+> **Turning respiratory events into competitive esports.** 🤧🏆
