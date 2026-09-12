@@ -109,11 +109,11 @@ npm start
 
 # Screenshots (Add at least 3)
 
-![Screenshot 1](sneeze-analyzer/image/Screenshot%202026-09-12%20055140.png)
+![Screenshot 1](image/Screenshot%202026-09-12%20055140.png)
 
-![Screenshot 2](sneeze-analyzer/image/Screenshot%202026-09-12%20055150.png)
+![Screenshot 2](image/Screenshot%202026-09-12%20055150.png)
 
-![Screenshot 3](sneeze-analyzer/image/Screenshot%202026-09-12%20055154.png)
+![Screenshot 3](image/Screenshot%202026-09-12%20055154.png)
 
 # Diagrams
 
