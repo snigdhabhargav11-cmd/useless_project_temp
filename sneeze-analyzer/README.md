@@ -113,6 +113,8 @@ sneeze-analyzer/image/Screenshot-2026-09-12-055140.png
 sneeze-analyzer/image/Screenshot-2026-09-12-055154.png
 sneeze-analyzer/image/Screenshot-2026-09-12-055150.png
 
+sneeze-analyzer/image
+
 
 # Diagrams
 
