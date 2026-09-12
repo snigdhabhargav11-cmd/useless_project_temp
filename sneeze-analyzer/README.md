@@ -18,19 +18,19 @@
 
 ### Project Description
 
-SneezeRank AI is the world's first AI-powered competitive sneezing platform. Users record their sneezes, receive professional-style ratings, unlock achievements, get classified as animals, and compete on global leaderboards to become the ultimate sneeze champion.
+SneezeRank AI is the world's first AI-powered competitive sneezing platform. Users record their sneezes, receive professional-style ratings, unlock achievements, get classified as animals, and compete[...]
 
 ---
 
 ### The Problem (that doesn't exist)
 
-Humanity has spent centuries measuring sports performance, intelligence, and productivity, yet no standardized system exists for evaluating sneeze quality. Millions of powerful sneezes go unnoticed every day, leaving people unaware of their true respiratory potential.
+Humanity has spent centuries measuring sports performance, intelligence, and productivity, yet no standardized system exists for evaluating sneeze quality. Millions of powerful sneezes go unnoticed ev[...]
 
 ---
 
 ### The Solution (that nobody asked for)
 
-We developed an AI-powered sneeze analysis platform that transforms ordinary sneezes into a competitive esport. Using audio analysis, AI commentary, animal classification, achievements, and leaderboards, every sneeze receives the recognition it deserves.
+We developed an AI-powered sneeze analysis platform that transforms ordinary sneezes into a competitive esport. Using audio analysis, AI commentary, animal classification, achievements, and leaderboar[...]
 
 ---
 
@@ -109,12 +109,11 @@ npm start
 
 # Screenshots (Add at least 3)
 
-sneeze-analyzer/image/Screenshot-2026-09-12-055140.png
-sneeze-analyzer/image/Screenshot-2026-09-12-055154.png
-sneeze-analyzer/image/Screenshot-2026-09-12-055150.png
+![Screenshot 1](sneeze-analyzer/image/Screenshot%202026-09-12%20055140.png)
 
-sneeze-analyzer/image
+![Screenshot 2](sneeze-analyzer/image/Screenshot%202026-09-12%20055150.png)
 
+![Screenshot 3](sneeze-analyzer/image/Screenshot%202026-09-12%20055154.png)
 
 # Diagrams
 
